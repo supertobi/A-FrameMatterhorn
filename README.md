@@ -1,6 +1,10 @@
 Matterhorn
 ==========
 
+You can test it live here: 
+https://supertobi.github.io/A-FrameMatterhorn/
+
+![image](Screenshot.jpg)
 
 ### aframe-orbit-controls.min.js
 https://github.com/tizzle/aframe-orbit-controls-component
